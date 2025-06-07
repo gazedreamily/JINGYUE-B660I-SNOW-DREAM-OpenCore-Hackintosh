@@ -57,3 +57,11 @@ You can also follow up [BiliBili Account of @WuLongMiTaoLaiYiDa](https://space.b
 Thanks the QQGroup below for help.
 
 ![QQGroup](./imgs/QRCode.png)
+
+## Tools
+
+- [Hackintool](https://github.com/headkaze/Hackintool)
+- [OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools) AKA `OCAT`.
+- [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) AKA `OCC`.
+- [gibMacOS](https://github.com/corpnewt/gibMacOS) Build your own MacOS image.
+- [ProperTree](https://github.com/corpnewt/ProperTree) Plist editor.

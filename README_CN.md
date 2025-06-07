@@ -56,3 +56,11 @@
 感谢此Q群的帮助。
 
 ![QQGroup](./imgs/QRCode.png)
+
+## 常用工具
+
+- [Hackintool](https://github.com/headkaze/Hackintool)
+- [OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools) AKA `OCAT`.
+- [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) AKA `OCC`.
+- [gibMacOS](https://github.com/corpnewt/gibMacOS) Build your own MacOS image.
+- [ProperTree](https://github.com/corpnewt/ProperTree) Plist editor.
